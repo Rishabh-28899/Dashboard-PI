@@ -21,4 +21,4 @@ The best dashboard explanation format. • Business problem • Goal of the dash
 
 • Goal of the Dashboard To deliver an interactive visual tool that: Enables users to explore ski resorts globally. Supports decisions such as vacation planning, regional marketing
 
-4. Screenshort: image.png
+4. Screenshort: https://github.com/Rishabh-28899/Dashboard-PI/commit/c591d6dbc62cd252d3454c531d4cfb626080aafb
